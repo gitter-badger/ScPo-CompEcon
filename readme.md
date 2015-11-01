@@ -1,1 +1,3 @@
-to run the notebook type `jupyter notebook`
+# Repo for Computational Economics at Sciences Po
+
+florian.oswald@sciencespo.fr
